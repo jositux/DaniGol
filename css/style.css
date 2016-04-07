@@ -1971,3 +1971,20 @@ textarea {
 #portfolio .width-90 {
   margin: auto !important;
 }
+
+.sidebar-nav .navbar-nav li.lang a {
+  float: left;
+  display: inline;
+  padding: 3px 7px !important;
+  color: #d70044 !important;
+}
+
+.sidebar-nav .navbar-nav li.lang a:before {
+  border-bottom: 0;
+}
+
+.sidebar-nav .navbar-nav li.lang a.link-es {
+  padding-left: 0 !important;
+  border-right: 1px solid #d70044;
+}
+
